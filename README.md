@@ -1,0 +1,1 @@
+# Penerapan-Metode-K-Nearest-Neighbor-K-NN-untuk-Klasifikasi-Tutupan-Lahan-Kabupaten-Empat-Lawang
